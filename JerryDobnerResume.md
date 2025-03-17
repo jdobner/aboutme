@@ -6,12 +6,12 @@
 Technology leader with deep expertise in building and scaling high-performance SaaS platforms. Extensive experience in fintech, payments, and restaurant technology, delivering secure, scalable solutions that drive business growth. Skilled in cloud architecture, system security, and real-time data processing, with a proven ability to lead teams, optimize costs, and execute complex technology initiatives.
 
 Key strengths:
-
 - Designing secure, scalable cloud-native platforms.
 - Driving strategic growth by aligning technology with business objectives.
 - Turning client insights into actionable product roadmaps that increase revenue.
 - Developing high-impact partnerships and vendor relationships.
-- Supporting enterprise sales with technical leadership and strategic collaboration.
+- Supporting enterprise sales with technical leadership and strategic collaboration.  
+  
 
 **EXPERIENCE**
 
