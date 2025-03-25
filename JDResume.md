@@ -1,56 +1,59 @@
-## Jerry Dobner
+****## Jerry Dobner
 ### [jdobner@gmail.com](mailto:jdobner@gmail.com) | +1 646 522 5657 | [linkedin.com/in/jerrydobner](https://www.linkedin.com/in/jerrydobner)
 
 **EXECUTIVE SUMMARY**
 
-Technology leader with deep expertise in building and scaling high-performance SaaS platforms. Extensive experience in fintech, payments, and restaurant technology, delivering secure, scalable solutions that drive business growth. Skilled in cloud architecture, system security, and real-time data processing, with a proven ability to lead teams, optimize costs, and execute complex technology initiatives.
+Senior technology leader with extensive experience building and scaling high-performance, secure platforms and leading large engineering organizations. Proven track record of growing and mentoring engineering teams while delivering mission-critical enterprise solutions. Strong focus on cross-functional collaboration, designing innovative solutions, and aligning technical initiatives with business objectives. Expert in building resilient architectures with emphasis on security, scalability, and enterprise integration.
 
 Key strengths:
-- Designing secure, scalable cloud-native platforms.
-- Driving strategic growth by aligning technology with business objectives.
-- Turning client insights into actionable product roadmaps that increase revenue.
-- Developing high-impact partnerships and vendor relationships.
-- Supporting enterprise sales with technical leadership and strategic collaboration.  
-  
+- Building and leading high-performing engineering teams across multiple functions
+- Designing secure, scalable enterprise platforms with extensive API integrations
+- Driving strategic growth through technical innovation and cross-functional leadership
+- Mentoring technical leaders and establishing engineering excellence
+- Managing complex, multi-team technical initiatives
 
 **EXPERIENCE**
 
 #### Curbngo | Chief Technology Officer  
 2021 – Present  
 
-Currently leading Curbngo’s transformation from a food ordering app into a sophisticated restaurant operating platform, integrating POS systems, kitchen displays, self-ordering kiosks, and third-party sales channels. The platform now processes over one million monthly orders, handles 20 million+ daily transactions, and maintains 99.9999% uptime with less than 60 minutes of unplanned downtime in 2024.  
+Lead the technology organization delivering a sophisticated SAAS platform processing over 20 million daily transactions with 99.9999% uptime. Direct engineering teams across platform development, integration, and SAAS solutions.
 
 Key achievements:
-
 - **Drove a 75% YoY revenue increase** by developing high-volume restaurant solutions and launching an enterprise division, expanding into self-checkout and made-to-order food for convenience stores.
-- **Expanded market reach and accelerated adoption** through strategic partnerships with Deliverect, NCR, Stripe, and GlobalPay, enabling seamless integrations with major food delivery and retail platforms.
-- **Optimized organizational structure and streamlined operations**, reducing costs by 35% while improving development velocity and system resilience.
-- **Secured $3.5 million in funding**, playing a central role in investor engagement and strategic growth planning.
-- **Led enterprise client engagements**, including a subsidiary of Loblaw Companies Limited (2,400+ stores) and a major Quebec-based gas station chain (500+ locations).
-- **Designed and implemented a unified front-end architecture**, enabling consistent deployment of both native Android and responsive web apps from a single UI codebase, a unique innovation in restaurant technology.
+- **Built lean, efficient engineering organization**, implementing effective management structures and mentoring programs while maintaining high velocity with a focused team
+- **Led cross-functional initiatives** coordinating between engineering, product, and design teams to deliver enterprise-grade solutions for major clients including Loblaw Companies Limited
+- **Established technical partnerships** with enterprise platforms (Deliverect, NCR, Stripe, GlobalPay), developing robust API integrations and SDK implementations
+- **Drove architectural innovation** by implementing a unified front-end architecture supporting both native and web deployments, significantly improving development efficiency
+- **Optimized engineering operations**, resulting in 35% cost reduction while improving development velocity and system reliability
 
 #### Broadridge LTX | Chief Technology Officer  
 2016 – 2019  
 
-- **Architected and launched LTX Bond Marketplace**, a fully cloud-native trading platform optimizing $60B in corporate bond liquidity, enabling real-time trading insights.
-- **Designed high-frequency trading infrastructure**, ensuring real-time liquidity discovery and faster trade execution in an otherwise illiquid market.
+**Architected and launched LTX Bond Marketplace**, a fully cloud-native trading platform optimizing $60B in corporate bond liquidity, enabling real-time trading insights.
+- **Led a 30+ person engineering organization** in developing and launching the LTX Bond Marketplace platform.
+- **Scaled engineering team** from initial concept to full production, building high-performing teams across front-end, back-end, and infrastructure
+- **Implemented enterprise integration strategy** enabling real-time data exchange and API-driven architecture
+- **Established engineering excellence programs** focusing on security, reliability, and scalable development practices
 
 #### GFI Group / BGC Partners | Chief Technology Officer  
 2001 – 2016  
 
-- **Drove electronic trading expansion**, increasing adoption and growing CreditMatch revenues to $320M annually.
-- **Expanded global electronic trading operations**, serving 20,000 traders worldwide.
-- **Established a global customer satisfaction program**, cutting technical issues by 50% and enhancing trading platform stability.
+Led a global engineering organization of 100+ engineers, delivering mission-critical trading platforms.
+- **Scaled global engineering operations** supporting 20,000+ wholesale traders at major banks in multiple regions, with $320M in revenue
+- **Built and mentored distributed engineering teams** across multiple locations, developing both technical and management talent
+- **Implemented comprehensive quality and reliability programs**, reducing technical issues by 50%
+- **Drove enterprise platform adoption** resulting in $320M annual revenue
 
 **AWARDS & PATENTS**
 
-- Recognized **four times by Institutional Investor** in the Trading Technology 40 for innovation in financial technology.
-- **U.S. Patent #7,912,949** – Method for tracking and synchronizing data changes across distributed systems.
+- Recognized **four times by Institutional Investor** in the Trading Technology 40 for innovation in financial technology
+- **U.S. Patent #7,912,949** – Method for tracking and synchronizing data changes across distributed systems
 
-**TECHNOLOGY STACK**
+**TECHNICAL LEADERSHIP & EXPERTISE**
 
-- **Cloud & Infrastructure:** AWS (RDS, S3, EC2, ALB, CloudFront)
-- **Payments & Fintech:** Stripe, GlobalPay
-- **Development:** Android, Java, JavaScript, Angular, Python, PHP / Laravel, Redis
-- **Cybersecurity & Risk Management:** Secure fintech architectures, regulatory compliance, real-time fraud detection
-- **Leadership & Strategy:** Scaling SaaS platforms, enterprise partnerships, technical sales support
+- **Engineering Leadership:** Building and scaling engineering teams (30 - 100+ people), mentoring leaders, establishing engineering culture
+- **Enterprise Architecture:** API design, SDK development, multi-tenant systems
+- **Security & Compliance:** Secure system design, regulatory compliance, enterprise-grade security protocols
+- **Cloud & Infrastructure:** AWS (RDS, S3, EC2, ALB, CloudFront), distributed systems
+- **Development & Integration:** Full-stack development, enterprise integrations, API-first design
