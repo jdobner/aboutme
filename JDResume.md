@@ -1,4 +1,4 @@
-****## Jerry Dobner
+## Jerry Dobner
 ### [jdobner@gmail.com](mailto:jdobner@gmail.com) | +1 646 522 5657 | [linkedin.com/in/jerrydobner](https://www.linkedin.com/in/jerrydobner)
 
 **EXECUTIVE SUMMARY**
