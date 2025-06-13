@@ -1,0 +1,177 @@
+personal_info:
+  name: Jerry Dobner
+  email: jdobner@gmail.com
+  phone: +1 646 522 5657
+  linkedin: https://www.linkedin.com/in/jerrydobner
+  summary:
+  - Technology leader with deep expertise in building and scaling high-performance
+    SaaS platforms.
+  - Specializes in mission-critical business systems with an emphasis on revenue growth
+    and operational excellence.
+  - Hands-on leader who bridges technical execution with strategic business objectives.
+  - Proven track record in enterprise-scale platform architecture, cloud infrastructure,
+    fintech, and restaurant tech.
+  - Brings strong business acumen, product vision, and technical depth to every role.
+core_strengths:
+- Scalable, secure cloud-native SaaS platforms
+- Aligning tech execution with business goals
+- Investor engagement and enterprise sales support
+- Hands-on product and engineering leadership
+- Customer-driven product innovation
+- Operational efficiency and team velocity optimization
+career_history:
+- title: Chief Technology Officer
+  company: Curbngo
+  start: 2021-01
+  end: Present
+  location: Remote / Woodcliff Lake, NJ
+  industry: Restaurant Technology / SaaS
+  highlights:
+  - Transformed Curbngo from a simple ordering app to a comprehensive operating platform
+    used by enterprise clients.
+  - Drove 75% YoY revenue growth by expanding into enterprise verticals and launching
+    convenience store and QSR solutions.
+  - Architected a unified front-end framework for Android and web from a single codebase,
+    reducing deployment overhead.
+  - Integrated with NCR, Stripe, Lotto Quebec, GlobalPay, and Deliverect to enable
+    seamless partnerships with major retail/food systems.
+  - Reduced operational costs by 35% while improving team velocity and system uptime.
+  - Secured $3.5M in funding by leading technical due diligence and strategic planning
+    with investors.
+  - Delivered 99.9999% uptime across millions of daily transactions and 1M+ monthly
+    orders.
+  - Signed contracts with major retail clients including Loblaw subsidiary (2,400+
+    stores) and Quebec-based gas chain (500+ locations).
+  technologies:
+  - AWS
+  - Android
+  - PHP
+  - Laravel
+  - Redis
+  - MySQL
+  - Docker
+  - JavaScript
+- title: Chief Technology Officer
+  company: Broadridge LTX
+  start: 2016-01
+  end: 2019-12
+  location: New York City Area
+  industry: Fintech / Bond Trading
+  highlights:
+  - Launched LTX Bond Marketplace to optimize liquidity in the $60B corporate bond
+    market.
+  - Built high-frequency trading systems with low-latency execution and real-time
+    insights.
+  - Implemented AI models to match counterparties in illiquid markets.
+  - Led a team of 25 across engineering, QA, and product functions to deliver a scalable
+    cloud-native platform.
+  - Modernized trade infrastructure with real-time data capabilities.
+  technologies:
+  - AWS
+  - Java
+  - Python
+  - AI/ML
+  - Cloud Infrastructure
+  - FIX Protocol
+- title: Chief Technology Officer
+  company: BGC Partners
+  start: 2015-10
+  end: 2017-01
+  location: New York City
+  industry: Fintech / Trading
+  highlights:
+  - Post-merger CTO across BGC and GFI; responsible for tech strategy and enterprise
+    architecture.
+  - Led post-merger integration, deprecating legacy tech and building next-gen trading
+    platform.
+  - Directed cross-functional architecture group for platform unification and global
+    scalability.
+- title: Chief Technology Officer
+  company: GFI Group
+  start: 2011-09
+  end: 2015-09
+  location: New York City
+  industry: Fintech / Trading
+  highlights:
+  - Managed all software and platform development across global trading desks.
+  - Drove $320M annual platform revenue through enhanced trading system adoption.
+  - Led 150+ team across dev, QA, and analytics, ensuring global compliance and system
+    uptime.
+  - Established global customer support program, reducing issues by 50%.
+- title: Global Head of Development / eCommerce
+  company: GFI Group
+  start: 2008-11
+  end: 2011-10
+  location: New York City
+  highlights:
+  - Led 75-person team scaling GFI’s electronic trading into new markets.
+  - Oversaw talent recruitment and operational cost control.
+- title: Lead Architect, Trading Systems
+  company: GFI Group
+  start: 2005-01
+  end: 2007-02
+  location: New York City
+  highlights:
+  - Launched global credit and FX trading systems.
+  - Resolved major uptime and scalability issues for institutional trading clients.
+- title: Technical Architect Team Lead
+  company: GFI Group
+  start: 2001-09
+  end: 2004-12
+  location: New York City
+  highlights:
+  - Developed reusable UI and server-side libraries across multiple product lines.
+- title: Market Data Systems Architect
+  company: News Alert, Inc.
+  start: 1998-11
+  end: 2001-08
+  location: New York City
+  industry: Financial News / Market Data
+  highlights:
+  - Built real-time market data delivery systems.
+  - Owned full lifecycle of high-performance financial data platforms.
+awards:
+- Trading Technology 40 – Institutional Investor (2012, 2013, 2014, 2015)
+- Elite 8 – Wall Street & Technology (2013)
+patents:
+- 'US Patent #7,912,949 – Method for tracking and synchronizing data changes across
+  distributed systems'
+skills:
+  leadership:
+  - Cross-functional team building
+  - Investor communication
+  - Executive stakeholder alignment
+  - Enterprise client engagement
+  - Product strategy and roadmapping
+  cloud:
+  - AWS
+  - RDS
+  - EC2
+  - S3
+  - CloudFront
+  - ALB
+  fintech:
+  - FIX
+  - real-time trading systems
+  - payment systems
+  - cybersecurity
+  - compliance
+  platforms:
+  - Linux
+  - Redis
+  - Docker
+  - Android
+  - MySQL
+  - POS/KDS
+  - ELK Stack
+  languages:
+  - Java
+  - Python
+  - JavaScript
+  - PHP
+  - Laravel
+  - SQL
+  - HTML
+  - CSS
+  - Angular
+timestamp_generated: '2025-06-13T16:37:41.197739'
