@@ -12,28 +12,38 @@ personal_info:
   - Proven track record in enterprise-scale platform architecture, cloud infrastructure,
     fintech, and restaurant tech.
   - Brings strong business acumen, product vision, and technical depth to every role.
-  - Passionate about leveraging cloud and automation to drive efficiency and innovation. 
-  - Open to both fintech and SaaS leadership roles that challenge the status quo.
-  work_preference:
-  - Open to remote or hybrid work arrangements
-  - Interested in roles that allow for hands-on technical leadership and strategic
-    influence
-  - Seeking opportunities in fintech, SaaS, or technology-driven industries
-  - Prefer roles that involve building and scaling platforms with a focus on customer
-    impact
-  - Looking for positions that allow for cross-functional team leadership and innovation
-  - Open to opportunities that involve investor engagement and enterprise sales support
-  - Interested in roles that leverage my experience in cloud-native architectures and
-    scalable systems
-  location:
-  - Remote or New York City Area
 core_strengths:
-- Scalable, secure cloud-native SaaS platforms
-- Aligning tech execution with business goals
-- Investor engagement and enterprise sales support
-- Hands-on product and engineering leadership
-- Customer-driven product innovation
-- Operational efficiency and team velocity optimization
+- Expert in building scalable, cloud-native SaaS platforms for mission-critical systems.
+- Strong ability to align engineering execution with strategic business goals.
+- Skilled in engaging investors and supporting enterprise sales with technical depth.
+- Hands-on leader with deep fluency in software architecture, infrastructure, and
+  code review.
+- Experienced in debugging and resolving complex distributed system issues.
+- Deep understanding of cloud-native architectures, security, and real-time data pipelines.
+- Track record of driving product innovation based on customer insight and market
+  needs.
+- 'Operationally focused: known for improving engineering velocity and reducing overhead.'
+- Product-obsessed and quality-driven, with a bias toward user-centric design.
+- Proven ability to develop high-impact partnerships and strategic vendor relationships.
+- Adept at translating business objectives into scalable product roadmaps.
+- Capable of leading teams from early-stage buildouts to enterprise-scale deployments.
+work_preference:
+  location: Remote-first or hybrid (NYC metro area)
+  company_stage: Growth-stage, post-Series A to public
+  role_types:
+    - CTO
+    - SVP Engineering
+    - Head of Product & Technology
+  industry_focus:
+    - Fintech
+    - SaaS
+    - Restaurant/Retail Tech
+    - Enterprise Platforms
+  values:
+    - Customer-first product culture
+    - Engineering excellence
+    - Scalable impact
+    - Transparent leadership
 career_history:
 - title: Chief Technology Officer
   company: Curbngo
