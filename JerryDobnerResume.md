@@ -54,3 +54,4 @@ Key achievements:
 - **Development:** Android, Java, JavaScript, Angular, Python, PHP / Laravel, Redis
 - **Cybersecurity & Risk Management:** Secure fintech architectures, regulatory compliance, real-time fraud detection
 - **Leadership & Strategy:** Scaling SaaS platforms, enterprise partnerships, technical sales support
+**

@@ -3,35 +3,35 @@
 
 **EXECUTIVE SUMMARY**
 
-Senior technology leader with extensive experience building and scaling high-performance, secure platforms and leading large engineering organizations. Proven track record of growing and mentoring engineering teams while delivering mission-critical enterprise solutions. Strong focus on cross-functional collaboration, designing innovative solutions, and aligning technical initiatives with business objectives. Expert in building resilient architectures with emphasis on security, scalability, and enterprise integration.
+Accomplished technology executive with a distinguished track record in developing and scaling high-performance, secure enterprise platforms while leading substantial engineering organizations. Demonstrated expertise in cultivating and mentoring engineering teams while delivering mission-critical enterprise solutions. Exceptional ability to foster cross-functional collaboration, architect innovative solutions, and align technical initiatives with strategic business objectives. Recognized authority in constructing resilient architectures with emphasis on security, scalability, and enterprise integration.
 
-Key strengths:
-- Building and leading high-performing engineering teams across multiple functions
-- Designing secure, scalable enterprise platforms with extensive API integrations
-- Driving strategic growth through technical innovation and cross-functional leadership
-- Mentoring technical leaders and establishing engineering excellence
-- Managing complex, multi-team technical initiatives
+Core competencies:
+- Leadership of high-performing engineering teams across multiple functional domains
+- Architecture of secure, scalable enterprise platforms with comprehensive API integrations
+- Strategic growth through technical innovation and cross-functional leadership
+- Development of technical leadership talent and establishment of engineering excellence
+- Management of complex, multi-team technical initiatives
 
 **EXPERIENCE**
 
 #### Curbngo | Chief Technology Officer  
 2021 – Present  
 
-Lead the technology organization delivering a sophisticated SAAS platform processing over 20 million daily transactions with 99.9999% uptime. Direct engineering teams across platform development, integration, and SAAS solutions.
+Spearhead the technology organization responsible for a sophisticated SAAS platform processing in excess of 20 million daily transactions with 99.9999% system availability. Oversee engineering teams across platform development, integration, and SAAS solutions.
 
 Key achievements:
-- **Drove a 75% YoY revenue increase** by developing high-volume restaurant solutions and launching an enterprise division, expanding into self-checkout and made-to-order food for convenience stores.
-- **Built lean, efficient engineering organization**, implementing effective management structures and mentoring programs while maintaining high velocity with a focused team
-- **Led cross-functional initiatives** coordinating between engineering, product, and design teams to deliver enterprise-grade solutions for major clients including Loblaw Companies Limited
-- **Established technical partnerships** with enterprise platforms (Deliverect, NCR, Stripe, GlobalPay), developing robust API integrations and SDK implementations
-- **Drove architectural innovation** by implementing a unified front-end architecture supporting both native and web deployments, significantly improving development efficiency
-- **Optimized engineering operations**, resulting in 35% cost reduction while improving development velocity and system reliability
+- **Orchestrated 75% year-over-year revenue growth** through development of high-volume restaurant solutions and establishment of enterprise division, expanding into self-checkout and made-to-order food solutions for convenience stores
+- **Architected streamlined engineering organization**, implementing effective management structures and leadership development programs while maintaining exceptional development velocity with a focused team
+- **Directed cross-functional initiatives** coordinating between engineering, product, and design teams to deliver enterprise-grade solutions for major clients including Loblaw Companies Limited
+- **Cultivated strategic technical partnerships** with enterprise platforms (Deliverect, NCR, Stripe, GlobalPay), developing robust API integrations and SDK implementations
+- **Pioneered architectural innovation** through implementation of unified front-end architecture supporting both native and web deployments, significantly enhancing development efficiency
+- **Optimized engineering operations**, achieving 35% cost reduction while improving development velocity and system reliability
 
 #### Broadridge LTX | Chief Technology Officer  
 2016 – 2019  
 
 **Architected and launched LTX Bond Marketplace**, a fully cloud-native trading platform optimizing $60B in corporate bond liquidity, enabling real-time trading insights.
-- **Led a 30+ person engineering organization** in developing and launching the LTX Bond Marketplace platform.
+- **Led a 30+ person engineering organization** in developing and launching the LTX Bond Marketplace platform
 - **Scaled engineering team** from initial concept to full production, building high-performing teams across front-end, back-end, and infrastructure
 - **Implemented enterprise integration strategy** enabling real-time data exchange and API-driven architecture
 - **Established engineering excellence programs** focusing on security, reliability, and scalable development practices
@@ -39,7 +39,7 @@ Key achievements:
 #### GFI Group / BGC Partners | Chief Technology Officer  
 2001 – 2016  
 
-Led a global engineering organization of 100+ engineers, delivering mission-critical trading platforms.
+Directed a global engineering organization of 100+ engineers, delivering mission-critical trading platforms.
 - **Scaled global engineering operations** supporting 20,000+ wholesale traders at major banks in multiple regions, with $320M in revenue
 - **Built and mentored distributed engineering teams** across multiple locations, developing both technical and management talent
 - **Implemented comprehensive quality and reliability programs**, reducing technical issues by 50%
