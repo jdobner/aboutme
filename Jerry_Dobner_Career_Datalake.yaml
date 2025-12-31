@@ -27,23 +27,25 @@ core_strengths:
 - Proven ability to develop high-impact partnerships and strategic vendor relationships.
 - Adept at translating business objectives into scalable product roadmaps.
 - Capable of leading teams from early-stage buildouts to enterprise-scale deployments.
+- Works closely with engineers and product leaders—often spending hours pairing, whiteboarding,
+  and solving problems collaboratively to ensure alignment and quality execution.
 work_preference:
   location: Remote-first or hybrid (NYC metro area)
   company_stage: Growth-stage, post-Series A to public
   role_types:
-    - CTO
-    - SVP Engineering
-    - Head of Product & Technology
+  - CTO
+  - SVP Engineering
+  - Head of Product & Technology
   industry_focus:
-    - Fintech
-    - SaaS
-    - Restaurant/Retail Tech
-    - Enterprise Platforms
+  - Fintech
+  - SaaS
+  - Restaurant/Retail Tech
+  - Enterprise Platforms
   values:
-    - Customer-first product culture
-    - Engineering excellence
-    - Scalable impact
-    - Transparent leadership
+  - Customer-first product culture
+  - Engineering excellence
+  - Scalable impact
+  - Transparent leadership
 career_history:
 - title: Chief Technology Officer
   company: Curbngo
@@ -91,6 +93,11 @@ career_history:
   - Led a team of 25 across engineering, QA, and product functions to deliver a scalable
     cloud-native platform.
   - Modernized trade infrastructure with real-time data capabilities.
+  - Developed the LTX Bond Marketplace, combining unique trading protocols with AI-based
+    algorithms to discover natural buyers and sellers, generating liquidity in Corp
+    Bond markets.
+  - Launched the LTX Liquidity Monitor to identify trading counterparties for illiquid
+    securities using AI on transactional data.
   technologies:
   - AWS
   - Java
@@ -123,6 +130,22 @@ career_history:
   - Led 150+ team across dev, QA, and analytics, ensuring global compliance and system
     uptime.
   - Established global customer support program, reducing issues by 50%.
+  - Architected and built GFI CreditMatch, a leading credit derivatives trading platform
+    with $320M annual revenue.
+  - Scaled GFI’s electronic trading network to 20,000 global traders, driving network
+    effects.
+  - Grew high-margin electronic trading at GFI in Credit, FX, and Interest Rates to
+    60% of total revenue.
+  - Improved team productivity and reduced technology costs by 35% while maintaining
+    innovation at GFI.
+  - Established GFI’s global Customer Satisfaction Group, reducing production issues
+    by 50% across 2,000 clients.
+  - Promoted culture of pride, passion, and creativity across a 150-person tech org,
+    improving retention and output.
+  - Built GFI Energymatch, a low-latency platform supporting GFI's Commodity Broker
+    of the Year recognition.
+  - Developed highly resilient software systems to support global marketplaces with
+    zero downtime tolerance.
 - title: Global Head of Development / eCommerce
   company: GFI Group
   start: 2008-11
@@ -131,6 +154,22 @@ career_history:
   highlights:
   - Led 75-person team scaling GFI’s electronic trading into new markets.
   - Oversaw talent recruitment and operational cost control.
+  - Architected and built GFI CreditMatch, a leading credit derivatives trading platform
+    with $320M annual revenue.
+  - Scaled GFI’s electronic trading network to 20,000 global traders, driving network
+    effects.
+  - Grew high-margin electronic trading at GFI in Credit, FX, and Interest Rates to
+    60% of total revenue.
+  - Improved team productivity and reduced technology costs by 35% while maintaining
+    innovation at GFI.
+  - Established GFI’s global Customer Satisfaction Group, reducing production issues
+    by 50% across 2,000 clients.
+  - Promoted culture of pride, passion, and creativity across a 150-person tech org,
+    improving retention and output.
+  - Built GFI Energymatch, a low-latency platform supporting GFI's Commodity Broker
+    of the Year recognition.
+  - Developed highly resilient software systems to support global marketplaces with
+    zero downtime tolerance.
 - title: Lead Architect, Trading Systems
   company: GFI Group
   start: 2005-01
@@ -139,6 +178,22 @@ career_history:
   highlights:
   - Launched global credit and FX trading systems.
   - Resolved major uptime and scalability issues for institutional trading clients.
+  - Architected and built GFI CreditMatch, a leading credit derivatives trading platform
+    with $320M annual revenue.
+  - Scaled GFI’s electronic trading network to 20,000 global traders, driving network
+    effects.
+  - Grew high-margin electronic trading at GFI in Credit, FX, and Interest Rates to
+    60% of total revenue.
+  - Improved team productivity and reduced technology costs by 35% while maintaining
+    innovation at GFI.
+  - Established GFI’s global Customer Satisfaction Group, reducing production issues
+    by 50% across 2,000 clients.
+  - Promoted culture of pride, passion, and creativity across a 150-person tech org,
+    improving retention and output.
+  - Built GFI Energymatch, a low-latency platform supporting GFI's Commodity Broker
+    of the Year recognition.
+  - Developed highly resilient software systems to support global marketplaces with
+    zero downtime tolerance.
 - title: Technical Architect Team Lead
   company: GFI Group
   start: 2001-09
@@ -146,6 +201,22 @@ career_history:
   location: New York City
   highlights:
   - Developed reusable UI and server-side libraries across multiple product lines.
+  - Architected and built GFI CreditMatch, a leading credit derivatives trading platform
+    with $320M annual revenue.
+  - Scaled GFI’s electronic trading network to 20,000 global traders, driving network
+    effects.
+  - Grew high-margin electronic trading at GFI in Credit, FX, and Interest Rates to
+    60% of total revenue.
+  - Improved team productivity and reduced technology costs by 35% while maintaining
+    innovation at GFI.
+  - Established GFI’s global Customer Satisfaction Group, reducing production issues
+    by 50% across 2,000 clients.
+  - Promoted culture of pride, passion, and creativity across a 150-person tech org,
+    improving retention and output.
+  - Built GFI Energymatch, a low-latency platform supporting GFI's Commodity Broker
+    of the Year recognition.
+  - Developed highly resilient software systems to support global marketplaces with
+    zero downtime tolerance.
 - title: Market Data Systems Architect
   company: News Alert, Inc.
   start: 1998-11

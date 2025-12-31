@@ -1,0 +1,18 @@
+openapi: 3.0.0
+info:
+  title: Jerry Dobner Career Datalake Loader
+  version: 1.0.0
+servers:
+  - url: https://raw.githubusercontent.com/jdobner/aboutme/refs/heads/main
+paths:
+  /Jerry_Dobner_Career_Datalake.yaml:
+    get:
+      summary: Fetch the latest version of Jerry's career datalake
+      operationId: fetchCareerDatalake
+      responses:
+        '200':
+          description: Returns the YAML data lake as plain text
+          content:
+            text/plain:
+              schema:
+                type: string
